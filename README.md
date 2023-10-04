@@ -1,2 +1,1 @@
-# test
-# midi-ga
+# MIDI Generation using General Algorithm
